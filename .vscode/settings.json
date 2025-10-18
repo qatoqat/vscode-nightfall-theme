@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "*.json": "jsonc"
+  },
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "themes/*.json"
+      ],
+      "url": "vscode://schemas/color-theme"
+    },
+    {
+      "fileMatch": [
+        "package.json"
+      ],
+      "url": "vscode://schemas/vscode-extensions"
+    },
+    {
+      "fileMatch": [
+        "/themes/*.json",
+        "themes/*.json"
+      ],
+    }
+  ],
+  "editor.formatOnSave": true,
+  "extensions.ignoreRecommendations": false
+}
