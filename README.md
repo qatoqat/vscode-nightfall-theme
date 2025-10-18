@@ -18,7 +18,7 @@ A dark, clean, simple and elegant VSCode theme, based on the original [JetBrains
 
 # Contributions
 
-This theme currently covers most commonly used components. If something is missing, you can report an [issue](https://github.com/qatoqat/vscode-nightfall-theme/issues) or [contribute](https://github.com/qatoqat/vscode-nightfall-theme/pulls)
+This theme currently covers most commonly used components. If something is missing, you can report an [issue](https://github.com/qatoqat/vscode-nightfall-theme/issues) or [contribute!](https://github.com/qatoqat/vscode-nightfall-theme/pulls)
 
 # License
 
@@ -32,6 +32,6 @@ https://github.com/coeiico/jetbrains-nightfall-theme
 
 # Donate
 
-If you like my work, support me on Ko-Fi!  
+If you like my work, support me on [Ko-Fi!](https://ko-fi.com/qatoqat)  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q815CS7)
+<a href='https://ko-fi.com/Q5Q815CS7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
