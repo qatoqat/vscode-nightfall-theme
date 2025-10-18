@@ -2,8 +2,8 @@
   "name": "nightfall-theme",
   "displayName": "Nightfall Theme",
   "description": "A dark, elegant vscode theme based on JetBrains Nightfall theme",
-  "version": "2.0.0",
-  "publisher": "nightfall",
+  "version": "1.0.0",
+  "publisher": "qatoqat",
   "engines": {
     "vscode": "^1.104.2"
   },
@@ -15,7 +15,7 @@
     "dark theme",
     "nightfall"
   ],
-  "icon": "assets/plugin-icon.png",
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
